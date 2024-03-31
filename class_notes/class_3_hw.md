@@ -18,7 +18,11 @@ python3 -m tests.test_query_gradio
 
 此时服务器端接口已开启。如果在本地服务器使用，直接在浏览器中输入 127.0.0.1:7860 ，即可进入茴香豆对话 Demo 界面。
 
+![](../attachment/img3_2.png)
 
+![](../attachment/img3_3.png)
+
+![](../attachment/img3_4.png)
 
 ### 2. InternLM Studio 部署
 
